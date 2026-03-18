@@ -79,3 +79,12 @@ We propose a data-driven system to help cities anticipate and respond to climate
 ---
 
 ## 4. Repository Structure
+/Data
+Climate datasets (2017–2024)
+
+/Analysis
+Regression models (R² values)
+Trend graphs (temperature, humidity, rainfall)
+
+/Strategy
+Flowcharts & action plans for Smart Climate Response System
