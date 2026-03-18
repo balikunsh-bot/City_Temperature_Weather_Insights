@@ -1,6 +1,6 @@
 # Climate Warriors: Urban Climate Data Analysis & Resilience Strategy
 
-This project presents a comprehensive climate data analysis and a proposed technological solution to address climate volatility in urban India, with a primary focus on **:contentReference[oaicite:0]{index=0}**.  
+This project presents a comprehensive climate data analysis and a proposed technological solution to address climate volatility in urban India.  
 Our research spans a comparative analysis of five major Indian cities—: Bengaluru, Hyderabad, Delhi, Kolkata and Mumbai —tracking temperature, humidity, and rainfall trends from 2020 to 2024.
 
 ---
